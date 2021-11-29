@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Mary Acuna
-description: "Hello my name is Mary, and I'm studying Data Science.  My portfolio focuses on interesting projects I've been working on, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages by using the links below!"
+description: "Hello my name is Mary, and I'm learning Data Science.  My portfolio focuses on interesting projects I've been working on, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -18,7 +18,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Wisconsin, US"
 resume_url: /docs/resumetbd.docx
-avatar_image: /img/measq.JPG
+avatar_image: /img/measq.jpg
 
 #-------------------------------
 # Contact links
